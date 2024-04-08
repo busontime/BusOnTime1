@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458760340231",
+    "project_id": "busontime-cf5da",
+    "storage_bucket": "busontime-cf5da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458760340231:android:2aede4bd023a5a508cfba2",
+        "android_client_info": {
+          "package_name": "com.busontime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458760340231-q9h5rfj3qpohnla48sf0fjih0lacq71j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.busontime",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "458760340231-h3dkoetl4sl08a75tejrc986u3hi2p99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSs9nUsJYgY579twsI91BXA-ZD7zXP0ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458760340231-h3dkoetl4sl08a75tejrc986u3hi2p99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
